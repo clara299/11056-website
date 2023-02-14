@@ -1,0 +1,15 @@
+body {
+    background-color:blue;
+}
+header {
+    background-color: red;
+}
+main {
+    background-color: green;
+}
+main p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer {
+    background-color: pink;
+}
